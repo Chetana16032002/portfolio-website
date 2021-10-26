@@ -1,4 +1,4 @@
-# portfolio-website(basic)
+# portfolio-website
 💫This is a simple portfolio website using html and css 💫
 
 
