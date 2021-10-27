@@ -9,6 +9,9 @@ body{
 .chet{
   background-color: #DEBA9D;
 }
+p{
+  font-size: 1.1em;
+}
 h1
 {
   font-size: 80px;
